@@ -1,10 +1,10 @@
-Dependencies
-React and Lodash
+# A Card matching memory game built using React
+# Dependencies
+# React and Lodash
 
-For Demo
-
+# To Run locally
 npm install,
 npm start 
 
-Live view of the Project
+# Live Preview
 ![](https://github.com/variablemayank/Card-matching-memory-game/blob/master/Gif/ezgif.com-gif-maker.gif)
